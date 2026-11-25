@@ -113,7 +113,7 @@
 ## 📲 Download & Install
 
 1. Open the [**Latest Release**](https://github.com/z0h1x/GlucoFlow/releases/latest) page.
-2. Under **Assets**, tap **`GlucoFlow-v1.5.3-build8.apk`** to download.
+2. Under **Assets**, tap **`glucoflow.apk`** to download.
 3. Open the downloaded `.apk` file on your Android device (**Android 7.0+**) and allow installation if prompted.
 4. Sign in with Google — your settings, history, and glucose journal sync automatically.
 
